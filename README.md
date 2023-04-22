@@ -1,5 +1,5 @@
-<div class="align-center">
+<div align="center">
 <h1>mzdevI</h1>
 </div>
 
-### Hi there 👋
+### Welcome to my profile 👋
